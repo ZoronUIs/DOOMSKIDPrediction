@@ -1,0 +1,21 @@
+prediction.hitbox:Humanoid("Part")
+
+local Enabled = Gane.Players.LocalPlayer.HumanoidParts {
+     1 HumanoidHead,
+     2 HumanoidTorso,
+     3 HumanoidLower,
+     4 HumanoidFoot,
+ {
+  
+   if part = select
+     then
+       choose.AimPart
+       end)
+       
+        
+        
+         
+         
+          
+            vair.vair.local.Expert - (pro)
+            local en.de.te = "rrepart"
